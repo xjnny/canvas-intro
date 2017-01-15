@@ -1,0 +1,54 @@
+{
+  "flights": [
+    {
+      "id": "caravan-img",
+      "name": "Caravan Amphibian",
+      "imperative": "discover",
+      "blurbHTML": "<span id='blurb__span'>Discover</span> the beauty and majesty of New Zealand's lakes and valleys in an amphibious floatplane. Travel to any number of destinations, no matter how remote.",
+      "widthLrg": "73%",
+      "widthSm": "90%",
+      "points": [[0, 0],[400, 0],[600, 200],[1200, 600]]
+    },{
+      "id": "skyhawk-img",
+      "name": "Cessna Skyhawk",
+      "imperative": "experience",
+      "blurbHTML": "<span id='blurb__span'>Experience</span> the freedom of flight and see the lake district from a new perspective via a scenic flight in a Skyhawk. Enjoy the best view anywhere in comfort and safety.",
+      "widthLrg": "57%",
+      "widthSm": "85%",
+      "points": [[0, 200],[350, 200],[600, 200],[1200, 600]]
+    },{
+      "id": "glider-img",
+      "name": "DG 1001s",
+      "imperative": "soar",
+      "blurbHTML": "<span id='blurb__span'>Soar</span> amongst the clouds in an engineless sailplane. Take a 3 hour flight and ride aloft on thermals across the breathtaking southern alps.",
+      "widthLrg": "43%",
+      "widthSm": "80%",
+      "points": [[0, 400],[350, 400],[625, 550],[1200, 600]]
+    },{
+      "id": "jetranger-img",
+      "name": "Bell 206 Jetranger",
+      "imperative": "explore",
+      "blurbHTML": "<span id='blurb__span'>Explore</span> the slopes of the mountains, or experience all the lake district has to offer, via day trips made possible due to the versatility of the Jetranger. Pick up and drop off available.",
+      "widthLrg": "30%",
+      "widthSm": "70%",
+      "points": [[0, 600],[350, 600],[850, 550],[1200, 600]]
+    },{
+      "id": "extra-img",
+      "name": "Extra 200",
+      "imperative": "exhilarate",
+      "blurbHTML": "<span id='blurb__span'>Exhilarate</span> your senses as you spin and streak through the sky in an aerobatic stunt plane. If you crave the adrenaline pumping rush of speed and agility, you need not look any further than our Extra 200",
+      "widthLrg": "25%",
+      "widthSm": "60%",
+      "points": [[0, 800],[350, 800],[850, 300],[1200, 600]]
+    },{
+      "id": "new-img",
+      "name": "New",
+      "imperative": "New",
+      "blurbHTML": "<span id='blurb__span'>New</span> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+      "widthLrg": "25%",
+      "widthSm": "60%",
+      "points": [[0, 1000],[350, 1000],[850, 300],[1200, 600]]
+    }
+  ]
+}
+
